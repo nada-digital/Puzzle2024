@@ -44,7 +44,7 @@ export default function Home() {
           <Link href={"/heya"}>
             <div className='relative flex items-center justify-center'>
               <Image className='absolute rotate-[45deg]' src={"/piece3.svg"} alt='' width={140} height={200} />
-               <div>へやわり</div>
+               <div>へやわけ</div>
             </div>
           </Link>
           <Link href={"/lits"}>
